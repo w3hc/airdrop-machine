@@ -10,7 +10,7 @@
         "mint:goerli": "hardhat mint --network goerli --amount",
         "mint:arthera": "hardhat mint --network arthera-testnet --amount",
         "send:goerli": "hardhat send --wallet 0x70456d078950db075283931D9bE2E01B49f3e71e --network goerli --amount",
-        "send:arthera": "hardhat send --wallet 0x70456d078950db075283931D9bE2E01B49f3e71e --network arthera-testnet --amount",
+        "send:arthera": "hardhat send --wallet 0xD8a394e7d7894bDF2C57139fF17e5CBAa29Dd977 --network arthera-testnet --amount",
         "prettier": "prettier --write ."
     },
     "keywords": [],
